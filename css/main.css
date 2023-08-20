@@ -5,7 +5,7 @@ div > p {
 }
 
 .content-cell {
-	background-color: #BBDDBB;
+	background-color: rgba(211, 237, 209, 0.8);
 	margin-bottom: 15px;
 	padding: 10px 15px;
 }
